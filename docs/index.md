@@ -3,7 +3,7 @@
 <p align="center">
   <b>
 18iml at queensu dot ca
-  </b>
+  </b></p>
 <br>
 <br>
   
