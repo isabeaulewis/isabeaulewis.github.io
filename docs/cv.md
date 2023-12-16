@@ -1,3 +1,9 @@
-# CV page
+# CV
 
-CV will go here
+(Alternatively, a PDF version)
+
+<p align="center"> 
+  ISABEAU LEWIS
+  18iml at queensu.ca
+</p>
+
