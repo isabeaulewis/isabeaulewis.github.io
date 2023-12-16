@@ -1,6 +1,6 @@
 # CV
 
-(Alternatively, a PDF version)
+(Alternatively, a [PDF](./files/IsabeauLewis_CV_Website.docx) version)
 
 <p align="center"> 
   ISABEAU LEWIS
@@ -12,6 +12,7 @@
 **RESEARCH INTERESTS**
 >I am an evolutionary ecologist interested in the forces promoting and constraining the persistence of plant species in space and time. I am particularly drawn to sexual system transitions, trade-offs, and plasticity.
 <br>
+<br>
 
 **EDUCATION**
 >**BSc. (Honours with Distinction)** Queen's University, 2019 - 2023 
@@ -22,9 +23,11 @@
 >  >>
 >>>**Independent research mentorship**: Kin discrimination influences investment in flowering and clonal growth in perennial *Mimulus guttatus* (Supervisor: Dr. Jannice Friedman)
 <br>
+<br>
 
 **PUBLICATIONS**
 1. **Lewis, I**. (2023). Petals, protandry, and plasticity: Interactions between sex phase and flower colour change in the invasive weed *Saponaria officinalis*. Queen's University. Bachelor's Honours Thesis. Supervisor: Dr. Jannice Friedman.
+<br>
 <br>
 
 **AWARDS**
@@ -65,10 +68,12 @@
 >
 > **Queen's University** Dean's Honour List | 2020
 <br>
+<br>
 
 **SEMINARS**
 
 1. **Lewis, I.,** & Friedman, J. Plant responses to dynamic environments: rooting for the underdog in evolutionary biology! (Invited; **University of Western Ontario Biology Evolution Seminar Series**) | 2023
+<br>
 <br>
 
 **CONFERENCE PRESENTATIONS**
@@ -86,6 +91,7 @@
 > **Botanical Society of America Annual Meeting** | 2022 ‡
 >
 > **Ontario Ecology, Ethology, and Evolution Colloquium** | 2022 ▲ *
+<br>
 <br>
 
 **RESEARCH EXPERIENCE**
@@ -107,6 +113,7 @@
 > **BIOL402 Plant Physiology Research Project** (Queen’s University, January 2021 – April 2021)
 >> I investigated the effects of gibberellic acid on the lipid and chlorophyll composition of an herb.
 <br>
+<br>
 
 **VOLUNTEER SERVICE**
 > **Organizer** – Queen’s University Biology Undergraduate Thesis Poster Day Committee (February  March 2023)
@@ -118,6 +125,7 @@
 > **Leader** – New, Exchange, Worldly, and Transfer Students (NEWTS) Orientation Week (September 2021; January 2023)
 >
 > **Graphic Design Executive** – Queen’s for Parkinson’s Kingston (January 2021 – May 2022)
+<br>
 <br>
 
 **PROFESSIONAL MEMBERSHIPS**
