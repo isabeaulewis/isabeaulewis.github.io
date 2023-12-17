@@ -1,6 +1,6 @@
 # CV
 
-(Alternatively, a [PDF](./files/IsabeauLewis_CV_Website.docx) version)
+(Alternatively, a [PDF](./files/IsabeauLewis_CV_Website_Jan2024.pdf) version)
 
 <p align="center"> 
   ISABEAU LEWIS
