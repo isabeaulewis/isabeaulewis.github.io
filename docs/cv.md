@@ -13,7 +13,6 @@
 >I am an evolutionary ecologist interested in the forces promoting and constraining the persistence of plant species in space and time. I am particularly drawn to sexual system transitions, trade-offs, and plasticity.
 
 <br>
-<br>
 
 **EDUCATION**
 >**BSc. (Honours with Distinction)** Queen's University, 2019 - 2023 
@@ -24,7 +23,6 @@
 >  >>
 >>>**Independent research mentorship**: Kin discrimination influences investment in flowering and clonal growth in perennial *Mimulus guttatus* (Supervisor: Dr. Jannice Friedman)
 
-<br>
 <br>
 
 **PUBLICATIONS**
@@ -48,7 +46,7 @@
 > **Botanical Society of America** Undergraduate Student Research Award $500 USD | 2022
 >
 > **Schulich Leader Scholarship** $80 000 CAD | 2019
-> 
+
 
 **Awards & Recognitions** 
 > **Canadian Society for Ecology and Evolution Annual Meeting** Best Talk - Second Place $600 CAD | 2023
@@ -70,8 +68,7 @@
 > **Queen's University** Wallace Near Prize in French $285 CAD | 2020
 >
 > **Queen's University** Dean's Honour List | 2020
->
-<br>
+
 <br>
 
 **SEMINARS**
@@ -97,7 +94,6 @@
 > **Ontario Ecology, Ethology, and Evolution Colloquium** | 2022 ▲ *
 
 <br>
-<br>
 
 **RESEARCH EXPERIENCE**
 > **Field Team Leader** (Queen's University, July 2023)
@@ -117,8 +113,7 @@
 >
 > **BIOL402 Plant Physiology Research Project** (Queen’s University, January 2021 – April 2021)
 >> I investigated the effects of gibberellic acid on the lipid and chlorophyll composition of an herb.
->
-<br>
+
 <br>
 
 **VOLUNTEER SERVICE**
@@ -131,8 +126,7 @@
 > **Leader** – New, Exchange, Worldly, and Transfer Students (NEWTS) Orientation Week (September 2021; January 2023)
 >
 > **Graphic Design Executive** – Queen’s for Parkinson’s Kingston (January 2021 – May 2022)
-> 
-<br>
+
 <br>
 
 **PROFESSIONAL MEMBERSHIPS**
