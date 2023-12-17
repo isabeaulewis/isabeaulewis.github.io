@@ -5,10 +5,9 @@
 <p align="center"> 
     <b>
   ISABEAU LEWIS
+        <br>
+        18iml at queensu dot ca
       </b></p>
-<p align="center">
-  18iml at queensu dot ca
-</p>
 
 **RESEARCH INTERESTS**
 >I am an evolutionary ecologist interested in the forces promoting and constraining the persistence of plant species in space and time. I am particularly drawn to sexual system transitions, trade-offs, and plasticity.
