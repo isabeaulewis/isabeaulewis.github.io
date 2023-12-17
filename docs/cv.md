@@ -1,12 +1,14 @@
 # CV
 
-(Alternatively, a [PDF](../files/IsabeauLewis_CV_Website_Jan2024.pdf) version)
+(Alternatively, a [PDF](./IsabeauLewis_CV_Website_Jan2024.pdf) version)
 
+<h3>
 <p align="center"> 
+    <b>
   ISABEAU LEWIS
-</p>
+      </b></p></h3>
 <p align="center">
-  18iml at queensu.ca
+  18iml at queensu dot ca
 </p>
 
 **RESEARCH INTERESTS**
@@ -46,6 +48,7 @@
 > **Botanical Society of America** Undergraduate Student Research Award $500 USD | 2022
 >
 > **Schulich Leader Scholarship** $80 000 CAD | 2019
+> 
 
 **Awards & Recognitions** 
 > **Canadian Society for Ecology and Evolution Annual Meeting** Best Talk - Second Place $600 CAD | 2023
@@ -67,12 +70,14 @@
 > **Queen's University** Wallace Near Prize in French $285 CAD | 2020
 >
 > **Queen's University** Dean's Honour List | 2020
+>
 <br>
 <br>
 
 **SEMINARS**
 
 1. **Lewis, I.,** & Friedman, J. Plant responses to dynamic environments: rooting for the underdog in evolutionary biology! (Invited; **University of Western Ontario Biology Evolution Seminar Series**) | 2023
+   
 <br>
 <br>
 
@@ -91,6 +96,8 @@
 > **Botanical Society of America Annual Meeting** | 2022 ‡
 >
 > **Ontario Ecology, Ethology, and Evolution Colloquium** | 2022 ▲ *
+>
+
 <br>
 <br>
 
@@ -112,6 +119,7 @@
 >
 > **BIOL402 Plant Physiology Research Project** (Queen’s University, January 2021 – April 2021)
 >> I investigated the effects of gibberellic acid on the lipid and chlorophyll composition of an herb.
+>
 <br>
 <br>
 
@@ -125,14 +133,19 @@
 > **Leader** – New, Exchange, Worldly, and Transfer Students (NEWTS) Orientation Week (September 2021; January 2023)
 >
 > **Graphic Design Executive** – Queen’s for Parkinson’s Kingston (January 2021 – May 2022)
+> 
 <br>
 <br>
 
 **PROFESSIONAL MEMBERSHIPS**
 > **Student Member** – Society for the Study of Evolution (Jan 2024 – )
+> 
 > **Student Member** – American Genetic Association (June 2023 – )
+> 
 > **Student Member** – Canadian Botanical Association (April 2023 – )
+> 
 > **Student Member** – Botanical Society of America (March 2022 – February 2023)
+> 
 
 
 
