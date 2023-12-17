@@ -2,11 +2,10 @@
 
 (Alternatively, a [PDF](./IsabeauLewis_CV_Website_Jan2024.pdf) version)
 
-<h3>
 <p align="center"> 
     <b>
   ISABEAU LEWIS
-      </b></p></h3>
+      </b></p>
 <p align="center">
   18iml at queensu dot ca
 </p>
