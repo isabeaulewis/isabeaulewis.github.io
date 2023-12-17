@@ -11,6 +11,7 @@
 
 **RESEARCH INTERESTS**
 >I am an evolutionary ecologist interested in the forces promoting and constraining the persistence of plant species in space and time. I am particularly drawn to sexual system transitions, trade-offs, and plasticity.
+
 <br>
 <br>
 
@@ -22,6 +23,7 @@
   >>>**Honours thesis**: Interactions between sex phase and flower colour in the invasive weed *Saponaria officinalis*. (Supervisor: Dr. Jannice Friedman)
 >  >>
 >>>**Independent research mentorship**: Kin discrimination influences investment in flowering and clonal growth in perennial *Mimulus guttatus* (Supervisor: Dr. Jannice Friedman)
+
 <br>
 <br>
 
@@ -75,7 +77,6 @@
 **SEMINARS**
 
 1. **Lewis, I.,** & Friedman, J. Plant responses to dynamic environments: rooting for the underdog in evolutionary biology! (Invited; **University of Western Ontario Biology Evolution Seminar Series**) | 2023
-   
 <br>
 <br>
 
@@ -94,7 +95,6 @@
 > **Botanical Society of America Annual Meeting** | 2022 ‡
 >
 > **Ontario Ecology, Ethology, and Evolution Colloquium** | 2022 ▲ *
->
 
 <br>
 <br>
