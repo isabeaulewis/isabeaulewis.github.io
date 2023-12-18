@@ -10,5 +10,13 @@ My research so far has examined 1) the evolution of kin discrimination in plants
 
 ### 1. Kin discrimination in _Mimulus guttatus_
 
+Many species live in dynamic communities where they interact closely with the neighbours that surround them. The nature of these interactions can depend on the identity of neighbours -- for example, competitive responses may benefit the individual but compromise inclusive fitness if the surrounding neighbours are kin. In these cases, altruism towards relatives may evolve instead. While plants recognize and respond to the presence of kin, research into altruistic kin responses in plants remains limited. Do plants exhibit kin discrimination, and what do those responses look like?
+<br>
+
+To answer this question, I grew plants of _Mimulus guttatus_, a model species that reproduces both florally and clonally, in the greenhouse in pots surrounded by unrelated or sibling neighbours. To examine how floral and clonal growth might respond simultaneously, I measured responses in each. I found that plants decreased both floral and clonal growth when neighbouring siblings. While competitive increases in growth may increase direct fitness (i.e., floral through increased pollinator visitation, and clonal through increased use of resources and space), they are also costly investments. 
+
+Paper in progress!
+
+
 ### 2. Floral plasticity in _Saponaria officinalis_
 
