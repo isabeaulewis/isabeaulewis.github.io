@@ -5,7 +5,7 @@
 <br>
 <br>
 
-Welcome! I'm Isabeau Lewis, an evolutionary ecologist interested in plant sexual diversity, with a particular focus on how reproduction varies spatially and temporally.
+Welcome! I'm Isabeau Lewis, an evolutionary ecologist interested in plant sexual diversity, with a particular focus on **how reproduction varies spatially and temporally**.
 
 I completed my undergraduate degree in [Biology at Queen's University](https://biology.queensu.ca/) in 2023, where I was supervised by [Dr. Jannice Friedman](https://jfriedmanlab.wordpress.com/). My research focused on 1) the evolution of kin discrimination in plants and 2) floral advertisement and sex responses to variable pollinator visitation. You can learn more about this work [here](https://isabeaulewis.github.io/research).
 
