@@ -3,26 +3,19 @@
 Our world exhibits extraordinary (and beautiful!) natural variation. I aim to understand the evolutionary forces shaping this diversity, and its ecological outcomes, with a focus on plant reproduction. **How does plant sexual diversity shift spatially and temporally?**
 <br>
 
-My research so far has examined 1) the evolution of kin discrimination in plants and 2) floral plasticity in response to variable pollinator visitation. You can learn more about each of these projects below.
+My research so far has examined the evolution of [kin discrimination](#kin-discrimination) in plants and [floral plasticity](#floral-plasticity) in response to variable pollinator visitation. You can learn more about each of these projects below.
 <br>
 
 <img width="1100" alt="field_diversity" src="https://github.com/isabeaulewis/isabeaulewis.github.io/assets/122393362/c41cd55d-eacf-4238-8112-a2eda88eff09"/>
 
-<p align="center" >
-  <i>
-  Beautiful tangles at field site (Bracken tract), by me.
-    </i>
-</p>
+###### Beautiful tangles at field site (Bracken tract), by me.
 
-### 1. Kin discrimination in _Mimulus guttatus_
+
+## Kin discrimination
 
 <figure>
   <img align="right" img width="200" alt="field_diversity" src="https://github.com/isabeaulewis/isabeaulewis.github.io/assets/122393362/0a847f4b-8734-40a4-b8b6-84a4aaec96c7"/>
 </figure>
-
-<p align="right" style "font-size: 10px">
-  Mimulus, by me.
-</p>
 
 Many species live in dynamic communities where they interact closely with the neighbours that surround them. The outcomes of these interactions can depend on the identity of neighbours -- for instance, competitive responses may benefit the individual but compromise inclusive fitness if the surrounding neighbours are kin. In these cases, altruism towards relatives may evolve instead. While plants recognize and respond to the presence of kin, research into altruistic kin responses in plants remains limited. **Do plants exhibit kin discrimination, and what do those responses look like?**
 <br>
@@ -34,9 +27,19 @@ Identifying the selective pressures shaping interactions within plant neighbourh
 <br>
 
 Paper in progress!
+<br>
+
+<figure>
+  <img align="left" alt="early_days" src ="https://github.com/isabeaulewis/isabeaulewis.github.io/assets/122393362/cc9b8a84-fefb-4373-9864-aa357e8719e6"/>
+  <img align="center" alt="hectic_flowering" src="https://github.com/isabeaulewis/isabeaulewis.github.io/assets/122393362/88a04014-2f02-4e6d-8ba7-b301f1191c9e"/>
+  <img align="right" alt="grown_up" src="https://github.com/isabeaulewis/isabeaulewis.github.io/assets/122393362/9e30d965-5ac2-4c22-8334-6cd406f07657"/>
+</figure>
+<br>
+
+###### Right: _Mimulus_ illustration, by me. Above, in order: Early days, central focal plant surrounded by four neighbours. / Hectic flowering! / Neighbours in a pot, all grown up.
 
 
-### 2. Floral plasticity in _Saponaria officinalis_
+## Floral plasticity
 
 For animal-pollinated plants, interactions with pollinators present a crucial selective pressure for floral traits. Flowers must mediate investment in advertisement traits with reproductive ones -- including, for hermaphroditic flowers, balancing pollen donation, pollen receipt, and setting seed. The returns from these allocative choices differ with pollinator visitation, which is often dynamic -- across ranges, years, and seasons. Thus, plasticity in these traits may be essential to reproductive success. **How do floral advertisement and sex allocation shift under variable pollinator visitation?**
 <br>
