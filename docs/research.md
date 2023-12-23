@@ -13,8 +13,13 @@ My research so far has examined the evolution of [kin discrimination](#kin-discr
 
 ## Kin discrimination
 
+##### STUDY SYSTEM: _MIMULUS GUTTATUS_
+
+###### Illustration: _Mimulus_, by me. 
+
+
 <figure>
-  <img align="right" img width="200" alt="field_diversity" src="https://github.com/isabeaulewis/isabeaulewis.github.io/assets/122393362/0a847f4b-8734-40a4-b8b6-84a4aaec96c7"/>
+  <img align="right" img width="220" alt="field_diversity" src="https://github.com/isabeaulewis/isabeaulewis.github.io/assets/122393362/0a847f4b-8734-40a4-b8b6-84a4aaec96c7"/>
 </figure>
 
 Many species live in dynamic communities where they interact closely with the neighbours that surround them. The outcomes of these interactions can depend on the identity of neighbours -- for instance, competitive responses may benefit the individual but compromise inclusive fitness if the surrounding neighbours are kin. In these cases, altruism towards relatives may evolve instead. While plants recognize and respond to the presence of kin, research into altruistic kin responses in plants remains limited. **Do plants exhibit kin discrimination, and what do those responses look like?**
@@ -29,12 +34,18 @@ Identifying the selective pressures shaping interactions within plant neighbourh
 Paper in progress!
 <br>
 
-![big_neighbours](https://github.com/isabeaulewis/isabeaulewis.github.io/assets/122393362/ed743c67-4cb3-405f-b2c3-927ca8f0cc5b)
+<figure>
+  <img align="center" height="300" alt="early_days" src="https://github.com/isabeaulewis/isabeaulewis.github.io/assets/122393362/b182651b-fc15-4151-a7d1-8f48ed71708d">
+  <img align="center" height="300" alt="hectic_flowering" src="https://github.com/isabeaulewis/isabeaulewis.github.io/assets/122393362/851dfdf6-c48c-4e19-b95f-e0379f45e08c">
+  <img align="center" height="300" alt="big_neighbours" src="https://github.com/isabeaulewis/isabeaulewis.github.io/assets/122393362/ede26e68-626c-44ad-9873-09fa6aeee312">
+</figure>
 
-###### Right: _Mimulus_ illustration. Above, in order: Early days, central focal plant surrounded by four neighbours. / Hectic flowering! / Neighbours in a pot, all grown up.
+###### Photos, in order: Early days, central focal plant surrounded by four neighbours. / Hectic flowering, innumerable visions of phenotyping in my dreams... / Neighbours in a pot, all grown up.
 
 
 ## Floral plasticity
+
+##### STUDY SYSTEM: _SAPONARIA OFFICINALIS_
 
 For animal-pollinated plants, interactions with pollinators present a crucial selective pressure for floral traits. Flowers must mediate investment in advertisement traits with reproductive ones -- including, for hermaphroditic flowers, balancing pollen donation, pollen receipt, and setting seed. The returns from these allocative choices differ with pollinator visitation, which is often dynamic -- across ranges, years, and seasons. Thus, plasticity in these traits may be essential to reproductive success. **How do floral advertisement and sex allocation shift under variable pollinator visitation?**
 <br>
