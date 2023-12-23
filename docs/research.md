@@ -8,7 +8,7 @@ My research so far has examined the evolution of [kin discrimination](#kin-discr
 
 <img width="1100" alt="field_diversity" src="https://github.com/isabeaulewis/isabeaulewis.github.io/assets/122393362/c41cd55d-eacf-4238-8112-a2eda88eff09"/>
 
-###### Beautiful tangles at field site (Bracken tract), by me.
+###### Beautiful tangles at field site (Bracken tract).
 
 
 ## Kin discrimination
@@ -29,14 +29,8 @@ Identifying the selective pressures shaping interactions within plant neighbourh
 Paper in progress!
 <br>
 
-<figure>
-  <img align="left" alt="early_days" src ="https://github.com/isabeaulewis/isabeaulewis.github.io/assets/122393362/cc9b8a84-fefb-4373-9864-aa357e8719e6"/>
-  <img align="center" alt="hectic_flowering" src="https://github.com/isabeaulewis/isabeaulewis.github.io/assets/122393362/88a04014-2f02-4e6d-8ba7-b301f1191c9e"/>
-  <img align="right" alt="grown_up" src="https://github.com/isabeaulewis/isabeaulewis.github.io/assets/122393362/9e30d965-5ac2-4c22-8334-6cd406f07657"/>
-</figure>
-<br>
 
-###### Right: _Mimulus_ illustration, by me. Above, in order: Early days, central focal plant surrounded by four neighbours. / Hectic flowering! / Neighbours in a pot, all grown up.
+###### Right: _Mimulus_ illustration. Above, in order: Early days, central focal plant surrounded by four neighbours. / Hectic flowering! / Neighbours in a pot, all grown up.
 
 
 ## Floral plasticity
