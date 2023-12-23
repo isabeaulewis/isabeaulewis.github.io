@@ -6,11 +6,12 @@ Our world exhibits extraordinary (and beautiful!) natural variation. I aim to un
 My research so far has examined 1) the evolution of kin discrimination in plants and 2) floral plasticity in response to variable pollinator visitation. You can learn more about each of these projects below.
 <br>
 
-<figure>
-  <img width="1025" alt="field_diversity" src="https://github.com/isabeaulewis/isabeaulewis.github.io/assets/122393362/c41cd55d-eacf-4238-8112-a2eda88eff09"/>
-</figure>
-<p align="center">
+<img width="1100" alt="field_diversity" src="https://github.com/isabeaulewis/isabeaulewis.github.io/assets/122393362/c41cd55d-eacf-4238-8112-a2eda88eff09"/>
+
+<p align="center" >
+  <i>
   Beautiful tangles at field site (Bracken tract), by me.
+    </i>
 </p>
 
 ### 1. Kin discrimination in _Mimulus guttatus_
