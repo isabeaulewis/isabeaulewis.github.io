@@ -8,7 +8,7 @@ My research so far has examined the evolution of [kin discrimination](#kin-discr
 
 <img width="1100" alt="field_diversity" src="https://github.com/isabeaulewis/isabeaulewis.github.io/assets/122393362/c41cd55d-eacf-4238-8112-a2eda88eff09"/>
 
-###### Beautiful tangles at field site (Bracken tract).
+###### Photo: Beautiful tangles at field site (Bracken tract).
 
 
 ## Kin discrimination
@@ -31,7 +31,7 @@ To answer this question, I grew plants of _Mimulus guttatus_, a model species th
 Identifying the selective pressures shaping interactions within plant neighbourhoods allows us to understand how communities persist in space and time. If kin discrimination increases the success of highly-related patches, it may result in spatial structuring of genetic diversity within populations. This research characterizes the nature and consequences of kin discrimination in plants, giving insight into plant neighbourhood dynamics.
 <br>
 
-Paper in progress!
+**Paper in progress!**
 <br>
 
 <figure>
