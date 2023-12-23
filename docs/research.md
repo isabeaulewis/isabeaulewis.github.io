@@ -29,6 +29,7 @@ Identifying the selective pressures shaping interactions within plant neighbourh
 Paper in progress!
 <br>
 
+![big_neighbours](https://github.com/isabeaulewis/isabeaulewis.github.io/assets/122393362/ed743c67-4cb3-405f-b2c3-927ca8f0cc5b)
 
 ###### Right: _Mimulus_ illustration. Above, in order: Early days, central focal plant surrounded by four neighbours. / Hectic flowering! / Neighbours in a pot, all grown up.
 
