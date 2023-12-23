@@ -6,9 +6,22 @@ Our world exhibits extraordinary (and beautiful!) natural variation. I aim to un
 My research so far has examined 1) the evolution of kin discrimination in plants and 2) floral plasticity in response to variable pollinator visitation. You can learn more about each of these projects below.
 <br>
 
-<img width="1025" alt="field_diversity" src="https://github.com/isabeaulewis/isabeaulewis.github.io/assets/122393362/c41cd55d-eacf-4238-8112-a2eda88eff09">
+<figure>
+  <img width="1025" alt="field_diversity" src="https://github.com/isabeaulewis/isabeaulewis.github.io/assets/122393362/c41cd55d-eacf-4238-8112-a2eda88eff09"/>
+</figure>
+<p align="center">
+  Beautiful tangles at field site (Bracken tract), by me.
+</p>
 
 ### 1. Kin discrimination in _Mimulus guttatus_
+
+<figure>
+  <img align="right" img width="200" alt="field_diversity" src="https://github.com/isabeaulewis/isabeaulewis.github.io/assets/122393362/0a847f4b-8734-40a4-b8b6-84a4aaec96c7"/>
+</figure>
+
+<p align="right" style "font-size: 10px">
+  Mimulus, by me.
+</p>
 
 Many species live in dynamic communities where they interact closely with the neighbours that surround them. The outcomes of these interactions can depend on the identity of neighbours -- for instance, competitive responses may benefit the individual but compromise inclusive fitness if the surrounding neighbours are kin. In these cases, altruism towards relatives may evolve instead. While plants recognize and respond to the presence of kin, research into altruistic kin responses in plants remains limited. **Do plants exhibit kin discrimination, and what do those responses look like?**
 <br>
@@ -30,7 +43,7 @@ For animal-pollinated plants, interactions with pollinators present a crucial se
 To test this, I used _Saponaria officinalis_, an invasive weed with protandrous flowers that undergo a colour change as they change sex. Flowers begin as white in male phase, before transitioning to female phase and turning pink. In a common garden at the [Queen's University Biological Station](https://qubs.ca/), I manipulated the level of pollinator visitation and measured flower colour and sex phase transition responses. This was conducted across two field seasons -- in 2022, I manipulated pollen removal from male-phase flowers and in 2023, pollen deposition on female-phase ones. Male-phase flowers with high pollen removal accelerated the transition to female phase and were pinker at three days following treatment than their counterparts with no pollen removal. Likewise, female-phase flowers with high pollen deposition were pinker in the days following treatment than flowers with no deposition.
 <br>
 
-Flower colour change in _S. officinalis_ occurs due to the accumulation of anthocyanin pigments over time -- but why bother investing in flowers that have likely already fulfilled reproductive goals? Pollinator attraction may play a role. Larger floral displays can increase fitness by increasing pollinator visitation, yet are costly to produce. Retaining colour-changed flowers may allow plants to increase display size from long ranges. At close range, provided that pollinators can discriminate based on colour, these changes can direct pollinators to more rewarding flowers. Colour change may be then most important for male-phase flowers, where pollinator visitation increases reproductive success linearly. Under low pollen removal, for example, staying whiter may allow flowers to increase pollinator visitation. Alternatively, anthocyanins may also protect maturing ovules from sun damage. Thus, colour change could occur in respond to pollen deposition or fertilization, with implications for female fitness. -
+Larger floral displays can increase fitness by increasing pollinator visitation, yet are costly to produce. Retaining colour-changed flowers may allow plants to increase display size from long ranges. At close range, provided that pollinators can discriminate based on colour, these changes can direct pollinators to more rewarding flowers. Colour change may be then most important for male-phase flowers, where pollinator visitation increases reproductive success linearly. Under low pollen removal, for example, staying whiter may allow flowers to increase pollinator visitation. Alternatively, anthocyanins may also protect maturing ovules from sun damage. Thus, colour change could occur in respond to pollen deposition or fertilization, with implications for female fitness. 
 <br>
 
 Pollinator visitation is highly variable -- not only between populations, but also within them. The level of visitation and resulting fitness outcomes may vary greatly both annually and seasonally between individual plants or even between flowers of a single plant. Quantifying the capacity of flowers to respond to this variation helps us understand how plants cope with changing environments.
