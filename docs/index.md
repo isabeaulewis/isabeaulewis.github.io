@@ -1,6 +1,7 @@
 ---
 layout: home
 title: About me
+full-width: true
 ---
 
 <img align="left" width="450" src="https://github.com/isabeaulewis/isabeaulewis.github.io/assets/122393362/f0b2335f-1c7b-4c42-879a-67e51bd4d0c3" alt="Mountain selfie!">
