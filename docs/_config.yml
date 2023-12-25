@@ -1,11 +1,2 @@
 title: Isabeau Lewis
-- name: About me
-  link: /
-- name: Research
-  link: /research.md
-- name: Illustration
-  link: /illustration.md
-- name: Gallery
-  link: /gallery.md
-- name: CV
-  link: /cv.md
+layout: home
