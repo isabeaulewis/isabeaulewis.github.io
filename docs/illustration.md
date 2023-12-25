@@ -8,11 +8,12 @@ Here's one example, of my hypothesis for my _M. guttatus_ [kin discrimination](h
 
 <img width="1100" align="centre" alt="kin-pred-comp" src="https://github.com/isabeaulewis/isabeaulewis.github.io/assets/122393362/4e1f557e-1f1c-437e-b4bb-41f8c0e138ee">
 
-And here's another, of _S. officinalis_, from a presentation on my [floral plasticity](https://isabeaulewis.github.io/research#floral-plasticity) work. This one is alongside a reference photo
+And here's another, of _S. officinalis_, from a presentation on my [floral plasticity](https://isabeaulewis.github.io/research#floral-plasticity) work. This one is accompanied by a photo of the process:
 
-<img width="572" alt="sap-bg" src="https://github.com/isabeaulewis/isabeaulewis.github.io/assets/122393362/8c87beb7-c646-43cf-b346-3b02559f79da">
-
-<img width="821" alt="sap_pred" src="https://github.com/isabeaulewis/isabeaulewis.github.io/assets/122393362/f80c770a-96af-4251-b254-3df3cc92f91e">
+<figure>
+  <img height="400" align="center" alt="sap-bg" src="https://github.com/isabeaulewis/isabeaulewis.github.io/assets/122393362/8c87beb7-c646-43cf-b346-3b02559f79da">
+  <img height="400" align="center" alt="sap_pred" src="https://github.com/isabeaulewis/isabeaulewis.github.io/assets/122393362/f80c770a-96af-4251-b254-3df3cc92f91e">
+</figure>
 
 
 So far, this consists of three species, but I hope the list will get longer as I explore new study systems! The folders containing these illustrations are below -- feel free to use them, with credit.
