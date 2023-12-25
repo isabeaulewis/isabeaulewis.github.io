@@ -4,6 +4,12 @@ title: About me
 permalink: /
 ---
 
+<style>
+  .footer {
+    display: none;
+  }
+</style>
+
 <figure style="float: left; padding-right: 25px; width: 40%">
   <img src="https://github.com/isabeaulewis/isabeaulewis.github.io/assets/122393362/f0b2335f-1c7b-4c42-879a-67e51bd4d0c3" alt="Mountain selfie!">
 </figure>
@@ -14,19 +20,10 @@ I completed my undergraduate degree in [Biology at Queen's University](https://b
 
 Outside of research, I love to cycle, learn about urban design and walkable cities, and fall off boulders at the climbing gym.
 
+Find me also on [Twitter](https://twitter.com/isabeau_lewis)!
+
 <p align="center">
   <b>
 18iml at queensu dot ca
   </b></p>
-
-Find me also on [Twitter](https://twitter.com/isabeau_lewis)!
-
-All images my own.
-
-<style>
-  .footer {
-    display: none;
-  }
-</style>
-
 
