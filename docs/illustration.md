@@ -18,11 +18,11 @@ And here's another, of _S. officinalis_, from a presentation on my [floral plast
 
 So far, this consists of three species, but I hope the list will get longer as I explore new study systems! The folders containing these illustrations are below -- feel free to use them, with credit.
 
-[_Mimulus guttatus_](./lewis_mimulus-illustration)
+[_Mimulus guttatus_](docs/lewis_mimulus-illustration)
 
-[_Saponaria officinalis_](./lewis_saponaria-illustration) (contains a bonus bee!)
+[_Saponaria officinalis_](docs/lewis_saponaria-illustration) (contains a bonus bee!)
 
-[_Moricandia moricandioides_](./lewis_moricandia-illustration)
+[_Moricandia moricandioides_](docs/lewis_moricandia-illustration)
 
 
 
