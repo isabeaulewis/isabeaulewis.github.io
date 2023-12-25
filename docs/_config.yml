@@ -1,2 +1,5 @@
+# Site settings
 title: Isabeau Lewis
-layout: home
+
+# Build settings
+remote_theme: jekyll/minima
