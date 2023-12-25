@@ -1,3 +1,9 @@
+---
+layout: page
+title: Gallery
+---
+
+
 A collection of field station photos from my time at [QUBS](https://qubs.ca/).
 
 <figure>
