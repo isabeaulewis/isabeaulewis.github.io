@@ -67,10 +67,6 @@ Pollinator visitation is highly variable -- not only between populations, but al
 
 **If you'd like to read my undergraduate thesis on the first half of this project, feel free to send me an email!**
 
-<img width="1100" align="center" alt="sex-phases" src="https://github.com/isabeaulewis/isabeaulewis.github.io/assets/122393362/6dc11878-05f0-4679-a6aa-0a3a0fbbd1ea">
-
-###### Photo: Colour and sex phase transition of _S. officinalis_. In male phase, the anthers occupy the centre of the flower. After they release pollen, two stigmas emerge to take their place. The stigmas curl throughout female phase.
-
 <figure>
   <img height="300" align="center" alt="bagged_sap" src="https://github.com/isabeaulewis/isabeaulewis.github.io/assets/122393362/9bfdc923-3402-4d9a-95f2-84faf6074fb8">
   <img height="300" align="center" alt="common_garden" src="https://github.com/isabeaulewis/isabeaulewis.github.io/assets/122393362/c7309388-54fe-470b-b92e-06659871a77b">
