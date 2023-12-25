@@ -3,18 +3,8 @@ layout: home
 title: About me
 ---
 
-<style type="text/css">
-.main-container {
-  max-width: 1800px;
-  margin-left: auto;
-  margin-right: auto;
-}
-</style>
+<img align="left" width="300" src="https://github.com/isabeaulewis/isabeaulewis.github.io/assets/122393362/f0b2335f-1c7b-4c42-879a-67e51bd4d0c3" alt="Mountain selfie!">
 
-
-<img align="left" width="450" src="https://github.com/isabeaulewis/isabeaulewis.github.io/assets/122393362/f0b2335f-1c7b-4c42-879a-67e51bd4d0c3" alt="Mountain selfie!">
-
-<br>
 <br>
 
 Welcome! I'm Isabeau Lewis, an evolutionary ecologist interested in plant sexual diversity, with a particular focus on **how reproduction varies spatially and temporally**.
