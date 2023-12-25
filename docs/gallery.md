@@ -1,17 +1,36 @@
-![DSC01049](https://github.com/isabeaulewis/isabeaulewis.github.io/assets/122393362/03a316a3-18e9-41c2-8e6f-4a76f4c517ae)
-![DSC01053](https://github.com/isabeaulewis/isabeaulewis.github.io/assets/122393362/93bd3eed-80ed-43a5-a888-566ce56c36e5)
-![DSC01054](https://github.com/isabeaulewis/isabeaulewis.github.io/assets/122393362/980e0ba0-2682-4162-b05d-1cf6eb732317)
-![DSC01058](https://github.com/isabeaulewis/isabeaulewis.github.io/assets/122393362/81c8fa06-44b6-438d-8168-dae7e28a50a3)
-![DSC01059](https://github.com/isabeaulewis/isabeaulewis.github.io/assets/122393362/c1cf32a6-9fc3-417d-a5b0-6e29850e5f22)
-![DSC01060](https://github.com/isabeaulewis/isabeaulewis.github.io/assets/122393362/50257b9d-9a27-4230-b51e-9e573abb7246)
-![DSC01065](https://github.com/isabeaulewis/isabeaulewis.github.io/assets/122393362/3edd88b9-bc3d-4273-a7df-0e5ad44e888c)
-![DSC01082](https://github.com/isabeaulewis/isabeaulewis.github.io/assets/122393362/2a6cd275-6ad9-49c1-82b6-9365d3dfa037)
-![DSC01100](https://github.com/isabeaulewis/isabeaulewis.github.io/assets/122393362/ef5f7c01-7ded-4916-bddd-05e93c5e40cb)
-![DSC01101](https://github.com/isabeaulewis/isabeaulewis.github.io/assets/122393362/afccee05-9759-49f5-8b85-9f00bbe1574c)
-![DSC01118](https://github.com/isabeaulewis/isabeaulewis.github.io/assets/122393362/fbb1c1fd-fe8f-4415-b722-a5770b6195ca)
-![DSC01132](https://github.com/isabeaulewis/isabeaulewis.github.io/assets/122393362/af2f6ae7-3862-4d2d-aa3c-45a68188d695)
-![DSC01153](https://github.com/isabeaulewis/isabeaulewis.github.io/assets/122393362/f655b88d-3596-48ae-a7c3-645d780b48af)
-![DSC01190](https://github.com/isabeaulewis/isabeaulewis.github.io/assets/122393362/ae9f0a0e-14f5-4d01-afb5-733b7f5c11f4)
-![DSC01229](https://github.com/isabeaulewis/isabeaulewis.github.io/assets/122393362/3d9e3d3f-2f1c-455b-996b-cd76f91c4413)
-![DSC01279](https://github.com/isabeaulewis/isabeaulewis.github.io/assets/122393362/985a48f7-0549-4975-b44f-fe299537cfd2)
-![DSC01323](https://github.com/isabeaulewis/isabeaulewis.github.io/assets/122393362/2e0f5919-76d9-42d0-8af7-05be7a84f9ad)
+A collection of field station photos from my time at [QUBS](https://qubs.ca/).
+
+<figure>
+  <img height="300" align="center" src="https://github.com/isabeaulewis/isabeaulewis.github.io/assets/122393362/980e0ba0-2682-4162-b05d-1cf6eb732317"/>
+  <img height="300" align="center" src="https://github.com/isabeaulewis/isabeaulewis.github.io/assets/122393362/81c8fa06-44b6-438d-8168-dae7e28a50a3"/>
+</figure>
+<br>
+<figure>
+  <img height="300" align="center" src="https://github.com/isabeaulewis/isabeaulewis.github.io/assets/122393362/50257b9d-9a27-4230-b51e-9e573abb7246"/>
+  <img height="300" align="center" src="https://github.com/isabeaulewis/isabeaulewis.github.io/assets/122393362/3edd88b9-bc3d-4273-a7df-0e5ad44e888c"/>
+</figure>
+<br>
+<figure>
+  <img height="300" align="center" src="https://github.com/isabeaulewis/isabeaulewis.github.io/assets/122393362/2a6cd275-6ad9-49c1-82b6-9365d3dfa037"/>
+  <img height="300" align="center" src="https://github.com/isabeaulewis/isabeaulewis.github.io/assets/122393362/ef5f7c01-7ded-4916-bddd-05e93c5e40cb"/>
+</figure>
+<br>
+<figure>
+  <img height="300" align="center" src="https://github.com/isabeaulewis/isabeaulewis.github.io/assets/122393362/afccee05-9759-49f5-8b85-9f00bbe1574c"/>
+  <img height="300" align="center" src="https://github.com/isabeaulewis/isabeaulewis.github.io/assets/122393362/fbb1c1fd-fe8f-4415-b722-a5770b6195ca"/>
+</figure>
+<br>
+<figure>
+  <img height="300" align="center" src="https://github.com/isabeaulewis/isabeaulewis.github.io/assets/122393362/af2f6ae7-3862-4d2d-aa3c-45a68188d695"/>
+  <img height="300" align="center" src="https://github.com/isabeaulewis/isabeaulewis.github.io/assets/122393362/f655b88d-3596-48ae-a7c3-645d780b48af"/>
+</figure>
+<br>
+<figure>
+  <img height="300" align="center" src="https://github.com/isabeaulewis/isabeaulewis.github.io/assets/122393362/ae9f0a0e-14f5-4d01-afb5-733b7f5c11f4"/>
+  <img height="300" align="center" src="https://github.com/isabeaulewis/isabeaulewis.github.io/assets/122393362/3d9e3d3f-2f1c-455b-996b-cd76f91c4413"/>
+</figure>
+<br>
+<figure>
+  <img height="300" align="center" src="https://github.com/isabeaulewis/isabeaulewis.github.io/assets/122393362/985a48f7-0549-4975-b44f-fe299537cfd2"/>
+  <img height="300" align="center" src="https://github.com/isabeaulewis/isabeaulewis.github.io/assets/122393362/2e0f5919-76d9-42d0-8af7-05be7a84f9ad"/>
+</figure>
