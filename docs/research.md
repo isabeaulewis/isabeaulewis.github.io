@@ -7,7 +7,7 @@ My research so far has examined the evolution of [kin discrimination](#kin-discr
 <br>
 
 <figure>
-  <img width="900" align="center" alt="field_diversity" src="https://github.com/isabeaulewis/isabeaulewis.github.io/assets/122393362/c41cd55d-eacf-4238-8112-a2eda88eff09"/>
+  <img width="1100" align="center" alt="field_diversity" src="https://github.com/isabeaulewis/isabeaulewis.github.io/assets/122393362/c41cd55d-eacf-4238-8112-a2eda88eff09"/>
 </figure>
 
 ###### Photo: Beautiful tangles at field site (Bracken tract).
@@ -67,14 +67,13 @@ Larger floral displays can increase fitness by increasing pollinator visitation,
 Pollinator visitation is highly variable -- not only between populations, but also within them. The level of visitation and resulting fitness outcomes may vary greatly both annually and seasonally between individual plants or even between flowers of a single plant. Quantifying the capacity of flowers to respond to this variation helps us understand how plants cope with changing environments.
 <br>
 
-If you'd like to read my undergraduate thesis on the first half of this project, feel free to send me an email!
+**If you'd like to read my undergraduate thesis on the first half of this project, feel free to send me an email!**
 
 <figure>
-  <img width="900" align="center" alt="sex-phases" src="https://github.com/isabeaulewis/isabeaulewis.github.io/assets/122393362/6dc11878-05f0-4679-a6aa-0a3a0fbbd1ea">
+  <img width="1100" align="center" alt="sex-phases" src="https://github.com/isabeaulewis/isabeaulewis.github.io/assets/122393362/6dc11878-05f0-4679-a6aa-0a3a0fbbd1ea">
 </figure>
 
 ###### Photo: Colour and sex phase transition of _S. officinalis_. In male phase, the anthers occupy the centre of the flower. After they release pollen, two stigmas emerge to take their place. The stigmas curl throughout female phase.
-<br>
 
 <figure>
   <img height="300" align="center" alt="bagged_sap" src="https://github.com/isabeaulewis/isabeaulewis.github.io/assets/122393362/9bfdc923-3402-4d9a-95f2-84faf6074fb8">
