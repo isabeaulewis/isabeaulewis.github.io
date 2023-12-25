@@ -1,3 +1,8 @@
+---
+layout: page
+title: Illustration
+---
+
 # Illustration
 
 I love to watercolour, and have generally gravitated towards portraits and plants. When I began working as a plant evolutionary ecology research assistant, the aesthetic appreciation I had developed for plant diversity became connected with my scientific appreciation. Now, it's not only plant form that fascinates me, but also the ecological and evolutionary factors shaping it! 
