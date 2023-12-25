@@ -62,7 +62,7 @@ To test this, I used _Saponaria officinalis_, an invasive weed with protandrous 
 Larger floral displays can increase fitness by increasing pollinator visitation, yet are costly to produce. Retaining colour-changed flowers may allow plants to increase display size from long ranges. At close range, provided that pollinators can discriminate based on colour, these changes can direct pollinators to more rewarding flowers. Colour change may be then most important for male-phase flowers, where pollinator visitation increases reproductive success linearly. Under low pollen removal, for example, staying whiter may allow flowers to increase pollinator visitation. Alternatively, anthocyanins may also protect maturing ovules from sun damage. Thus, colour change could occur in respond to pollen deposition or fertilization, with implications for female fitness. 
 <br>
 
-Pollinator visitation is highly variable -- not only between populations, but also within them. The level of visitation and resulting fitness outcomes may vary greatly both annually and seasonally between individual plants or even between flowers of a single plant. Quantifying the capacity of flowers to respond to this variation helps us understand how plants cope with changing environments.
+Pollinator visitation and resulting fitness outcomes may vary greatly annually and seasonally, as well as between individual plants or even between flowers of a single plant. Quantifying the capacity of flowers to respond to this variation helps us understand how plants cope with changing environments, and predict future outcomes as pollinators decline.
 <br>
 
 **If you'd like to read my undergraduate thesis on the first half of this project, feel free to send me an email!**
