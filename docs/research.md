@@ -6,7 +6,9 @@ Our world exhibits extraordinary (and beautiful!) natural variation. I aim to un
 My research so far has examined the evolution of [kin discrimination](#kin-discrimination) in plants and [floral plasticity](#floral-plasticity) in response to variable pollinator visitation. You can learn more about each of these projects below.
 <br>
 
-<img width="1100" alt="field_diversity" src="https://github.com/isabeaulewis/isabeaulewis.github.io/assets/122393362/c41cd55d-eacf-4238-8112-a2eda88eff09"/>
+<figure>
+  <img width="900" align="center" alt="field_diversity" src="https://github.com/isabeaulewis/isabeaulewis.github.io/assets/122393362/c41cd55d-eacf-4238-8112-a2eda88eff09"/>
+</figure>
 
 ###### Photo: Beautiful tangles at field site (Bracken tract).
 
