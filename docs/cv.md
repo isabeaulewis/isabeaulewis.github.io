@@ -3,8 +3,6 @@ layout: page
 title: CV
 ---
 
-# CV
-
 (Alternatively and with better formatting, a [PDF](./IsabeauLewis_CV_Website_Jan2024.pdf) version)
 
 <p align="center"> 
