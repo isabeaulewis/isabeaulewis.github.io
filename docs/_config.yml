@@ -1,3 +1,9 @@
 # Site settings
 title: Isabeau Lewis
 remote_theme: jekyll/minima
+
+header_pages:
+  - research.md
+  - illustration.md
+  - gallery.md
+  - cv.md
