@@ -19,7 +19,7 @@ My research so far has examined the evolution of [kin discrimination](#kin-discr
 
 
 <figure>
-  <img align="right" img width="220" alt="field_diversity" src="https://github.com/isabeaulewis/isabeaulewis.github.io/assets/122393362/0a847f4b-8734-40a4-b8b6-84a4aaec96c7"/>
+  <img align="right" img width="230" alt="field_diversity" src="https://github.com/isabeaulewis/isabeaulewis.github.io/assets/122393362/0a847f4b-8734-40a4-b8b6-84a4aaec96c7"/>
 </figure>
 
 Many species live in dynamic communities where they interact closely with the neighbours that surround them. The outcomes of these interactions can depend on the identity of neighbours -- for instance, competitive responses may benefit the individual but compromise inclusive fitness if the surrounding neighbours are kin. In these cases, altruism towards relatives may evolve instead. While plants recognize and respond to the presence of kin, research into altruistic kin responses in plants remains limited. **Do plants exhibit kin discrimination, and what do those responses look like?**
@@ -47,11 +47,19 @@ Identifying the selective pressures shaping interactions within plant neighbourh
 
 ##### STUDY SYSTEM: _SAPONARIA OFFICINALIS_
 
+###### Illustration: top, male-phase _Saponaria_; bottom, female-phase. By me.
+
 For animal-pollinated plants, interactions with pollinators present a crucial selective pressure for floral traits. Flowers must mediate investment in advertisement traits with reproductive ones -- including, for hermaphroditic flowers, balancing pollen donation, pollen receipt, and setting seed. The returns from these allocative choices differ with pollinator visitation, which is often dynamic -- across ranges, years, and seasons. Thus, plasticity in these traits may be essential to reproductive success. **How do floral advertisement and sex allocation shift under variable pollinator visitation?**
 <br>
 
+<img width="260" align="left" alt="saponaria_male" src="https://github.com/isabeaulewis/isabeaulewis.github.io/assets/122393362/2ced9899-c60c-4879-8e65-c50223ea8e14">
+<br>
+
+
 To test this, I used _Saponaria officinalis_, an invasive weed with protandrous flowers that undergo a colour change as they change sex. Flowers begin as white in male phase, before transitioning to female phase and turning pink. In a common garden at the [Queen's University Biological Station](https://qubs.ca/), I manipulated the level of pollinator visitation and measured flower colour and sex phase transition responses. This was conducted across two field seasons -- in 2022, I manipulated pollen removal from male-phase flowers and in 2023, pollen deposition on female-phase ones. Male-phase flowers with high pollen removal accelerated the transition to female phase and were pinker at three days following treatment than their counterparts with no pollen removal. Likewise, female-phase flowers with high pollen deposition were pinker in the days following treatment than flowers with no deposition.
 <br>
+
+<img width="260" align="left" alt="saponaria_female" src="https://github.com/isabeaulewis/isabeaulewis.github.io/assets/122393362/47239855-29b3-4d76-be87-d503f4406a15">
 
 Larger floral displays can increase fitness by increasing pollinator visitation, yet are costly to produce. Retaining colour-changed flowers may allow plants to increase display size from long ranges. At close range, provided that pollinators can discriminate based on colour, these changes can direct pollinators to more rewarding flowers. Colour change may be then most important for male-phase flowers, where pollinator visitation increases reproductive success linearly. Under low pollen removal, for example, staying whiter may allow flowers to increase pollinator visitation. Alternatively, anthocyanins may also protect maturing ovules from sun damage. Thus, colour change could occur in respond to pollen deposition or fertilization, with implications for female fitness. 
 <br>
@@ -61,6 +69,16 @@ Pollinator visitation is highly variable -- not only between populations, but al
 
 If you'd like to read my undergraduate thesis on the first half of this project, feel free to send me an email!
 
+<img width="900" align="center" alt="sex-phases" src="https://github.com/isabeaulewis/isabeaulewis.github.io/assets/122393362/6dc11878-05f0-4679-a6aa-0a3a0fbbd1ea">
 
+###### Photo: Colour and sex phase transition of _S. officinalis_. In male phase, the anthers occupy the centre of the flower. After they release pollen, two stigmas emerge to take their place. The stigmas curl throughout female phase.
+<br>
 
+<img height="300" align="center" alt="bagged_sap" src="https://github.com/isabeaulewis/isabeaulewis.github.io/assets/122393362/9bfdc923-3402-4d9a-95f2-84faf6074fb8">
+
+<img height="300" align="center" alt="common_garden" src="https://github.com/isabeaulewis/isabeaulewis.github.io/assets/122393362/c7309388-54fe-470b-b92e-06659871a77b">
+
+<img height="300" align="center" alt="colour_variation" src="https://github.com/isabeaulewis/isabeaulewis.github.io/assets/122393362/f0c00e51-e4db-4623-aaa6-e465b6048db3">
+
+###### Photos, in order: Flowers bagged to prevent pollinator visitation. / Common garden grid. / Colour variation in early male-phase flowers.
 
