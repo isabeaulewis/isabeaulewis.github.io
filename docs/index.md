@@ -4,11 +4,9 @@ title: About me
 permalink: /
 ---
 
-<figure style="float: left; padding-right: 25px; width: 45%">
+<figure style="float: left; padding-right: 25px; width: 40%">
   <img src="https://github.com/isabeaulewis/isabeaulewis.github.io/assets/122393362/f0b2335f-1c7b-4c42-879a-67e51bd4d0c3" alt="Mountain selfie!">
 </figure>
-
-<br>
 
 Welcome! I'm Isabeau Lewis, an evolutionary ecologist interested in plant sexual diversity, with a particular focus on **how reproduction varies spatially and temporally**.
 
@@ -25,5 +23,10 @@ Find me also on [Twitter](https://twitter.com/isabeau_lewis)!
 
 All images my own.
 
+<style>
+  .footer {
+    display: none;
+  }
+</style>
 
 
