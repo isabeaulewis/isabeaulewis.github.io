@@ -1,6 +1,7 @@
 ---
 layout: page
 title: CV
+full-width: true
 ---
 
 (Alternatively and with better formatting, a [PDF](./IsabeauLewis_CV_Website_Jan2024.pdf) version)
