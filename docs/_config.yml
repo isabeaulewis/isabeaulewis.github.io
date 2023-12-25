@@ -1,6 +1,5 @@
 # Site settings
 title: Isabeau Lewis
-remote_theme: jekyll/minima
 
 header_pages:
   - research.md
