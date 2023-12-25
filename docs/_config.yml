@@ -5,7 +5,7 @@ title: Isabeau Lewis
 remote_theme: jekyll/minima
 
 header_pages:
-  - research.html
-  - illustration.html
-  - gallery.html
-  - cv.html
+  - research.md
+  - illustration.md
+  - gallery.md
+  - cv.md
