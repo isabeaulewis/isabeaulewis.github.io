@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Research
+full-width: true
 ---
 
 Our world exhibits extraordinary (and beautiful!) natural variation. I aim to understand the evolutionary forces shaping this diversity, and its ecological outcomes, with a focus on plant reproduction. **How does plant sexual diversity shift spatially and temporally?**
