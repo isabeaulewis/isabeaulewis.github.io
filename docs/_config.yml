@@ -6,3 +6,17 @@ header_pages:
   - illustration.md
   - gallery.md
   - cv.md
+  
+navigation:
+- text: Research
+  internal: true
+  url: ./research.md
+- text: Illustration
+  internal: true
+  url: ./illustration.md
+- text: Gallery
+  internal: true
+  url: ./gallery.md
+- text: CV
+  internal: true
+  url: ./cv.md
