@@ -52,9 +52,7 @@ Identifying the selective pressures shaping interactions within plant neighbourh
 For animal-pollinated plants, interactions with pollinators present a crucial selective pressure for floral traits. Flowers must mediate investment in advertisement traits with reproductive ones -- including, for hermaphroditic flowers, balancing pollen donation, pollen receipt, and setting seed. The returns from these allocative choices differ with pollinator visitation, which is often dynamic -- across ranges, years, and seasons. Thus, plasticity in these traits may be essential to reproductive success. **How do floral advertisement and sex allocation shift under variable pollinator visitation?**
 <br>
 
-<figure>
-  <img width="260" align="left" alt="saponaria_male" src="https://github.com/isabeaulewis/isabeaulewis.github.io/assets/122393362/2ced9899-c60c-4879-8e65-c50223ea8e14">
-</figure>
+<img width="260" align="left" alt="saponaria_male" src="https://github.com/isabeaulewis/isabeaulewis.github.io/assets/122393362/2ced9899-c60c-4879-8e65-c50223ea8e14">
 
 To test this, I used _Saponaria officinalis_, an invasive weed with protandrous flowers that undergo a colour change as they change sex. Flowers begin as white in male phase, before transitioning to female phase and turning pink. In a common garden at the [Queen's University Biological Station](https://qubs.ca/), I manipulated the level of pollinator visitation and measured flower colour and sex phase transition responses. This was conducted across two field seasons -- in 2022, I manipulated pollen removal from male-phase flowers and in 2023, pollen deposition on female-phase ones. Male-phase flowers with high pollen removal accelerated the transition to female phase and were pinker at three days following treatment than their counterparts with no pollen removal. Likewise, female-phase flowers with high pollen deposition were pinker in the days following treatment than flowers with no deposition.
 <br>
@@ -69,7 +67,9 @@ Pollinator visitation is highly variable -- not only between populations, but al
 
 If you'd like to read my undergraduate thesis on the first half of this project, feel free to send me an email!
 
-<img width="1100" align="center" alt="sex-phases" src="https://github.com/isabeaulewis/isabeaulewis.github.io/assets/122393362/6dc11878-05f0-4679-a6aa-0a3a0fbbd1ea">
+<figure>
+  <img width="900" align="center" alt="sex-phases" src="https://github.com/isabeaulewis/isabeaulewis.github.io/assets/122393362/6dc11878-05f0-4679-a6aa-0a3a0fbbd1ea">
+</figure>
 
 ###### Photo: Colour and sex phase transition of _S. officinalis_. In male phase, the anthers occupy the centre of the flower. After they release pollen, two stigmas emerge to take their place. The stigmas curl throughout female phase.
 <br>
