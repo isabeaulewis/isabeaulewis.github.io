@@ -1,10 +1,5 @@
 # Site settings
 title: Isabeau Lewis
-remote_theme: jekyll/minima
-format:
-  html:
-    grid:
-      body-width: 1100px
 
 header_pages:
   - research.md
