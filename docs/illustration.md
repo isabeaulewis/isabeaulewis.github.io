@@ -4,9 +4,16 @@ I love to watercolour, and have generally gravitated towards portraits and plant
 
 I've found it useful to link these two by creating visual representations of my study species and hypotheses. Referencing my own photos or iNaturalist images, I draw digital images of petals, reproductive organs, leaves, and stems. Then, I paste them together to compose a plant illustrating a hypothesis or finding. 
 
-Here's one example, of my hypothesis for my _M. guttatus_ [kin discrimination](isabeaulewis.github.io/research) project.
+Here's one example, of my hypothesis for my _M. guttatus_ [kin discrimination](https://isabeaulewis.github.io/research#kin-discrimination) project:
 
-[image will go here]
+<img width="1100" align="centre" alt="kin-pred-comp" src="https://github.com/isabeaulewis/isabeaulewis.github.io/assets/122393362/4e1f557e-1f1c-437e-b4bb-41f8c0e138ee">
+
+And here's another, of _S. officinalis_, from a presentation on my [floral plasticity](https://isabeaulewis.github.io/research#floral-plasticity) work. This one is alongside a reference photo
+
+<img width="572" alt="sap-bg" src="https://github.com/isabeaulewis/isabeaulewis.github.io/assets/122393362/8c87beb7-c646-43cf-b346-3b02559f79da">
+
+<img width="821" alt="sap_pred" src="https://github.com/isabeaulewis/isabeaulewis.github.io/assets/122393362/f80c770a-96af-4251-b254-3df3cc92f91e">
+
 
 So far, this consists of three species, but I hope the list will get longer as I explore new study systems! The folders containing these illustrations are below -- feel free to use them, with credit.
 
@@ -15,5 +22,6 @@ So far, this consists of three species, but I hope the list will get longer as I
 [_Saponaria officinalis_]
 
 [_Moricandia moricandioides_]
+
 
 
