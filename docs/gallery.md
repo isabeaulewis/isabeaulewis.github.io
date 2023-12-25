@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Gallery
+full-width: true
 ---
 
 
