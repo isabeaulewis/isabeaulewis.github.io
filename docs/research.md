@@ -6,9 +6,7 @@ Our world exhibits extraordinary (and beautiful!) natural variation. I aim to un
 My research so far has examined the evolution of [kin discrimination](#kin-discrimination) in plants and [floral plasticity](#floral-plasticity) in response to variable pollinator visitation. You can learn more about each of these projects below.
 <br>
 
-<figure>
-  <img width="1100" align="center" alt="field_diversity" src="https://github.com/isabeaulewis/isabeaulewis.github.io/assets/122393362/c41cd55d-eacf-4238-8112-a2eda88eff09"/>
-</figure>
+<img width="1100" align="center" alt="field_diversity" src="https://github.com/isabeaulewis/isabeaulewis.github.io/assets/122393362/c41cd55d-eacf-4238-8112-a2eda88eff09"/>
 
 ###### Photo: Beautiful tangles at field site (Bracken tract).
 
@@ -69,9 +67,7 @@ Pollinator visitation is highly variable -- not only between populations, but al
 
 **If you'd like to read my undergraduate thesis on the first half of this project, feel free to send me an email!**
 
-<figure>
-  <img width="1100" align="center" alt="sex-phases" src="https://github.com/isabeaulewis/isabeaulewis.github.io/assets/122393362/6dc11878-05f0-4679-a6aa-0a3a0fbbd1ea">
-</figure>
+<img width="1100" align="center" alt="sex-phases" src="https://github.com/isabeaulewis/isabeaulewis.github.io/assets/122393362/6dc11878-05f0-4679-a6aa-0a3a0fbbd1ea">
 
 ###### Photo: Colour and sex phase transition of _S. officinalis_. In male phase, the anthers occupy the centre of the flower. After they release pollen, two stigmas emerge to take their place. The stigmas curl throughout female phase.
 
