@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Research
-permalink: /research/
+permalink: /research
 ---
 
 Our world exhibits extraordinary (and beautiful!) natural variation. I aim to understand the evolutionary forces shaping this diversity, and its ecological outcomes, with a focus on plant reproduction. **How does plant sexual diversity shift spatially and temporally?**
@@ -39,9 +39,9 @@ Identifying the selective pressures shaping interactions within plant neighbourh
 <br>
 
 <figure>
-  <img align="center" height="200" alt="early_days" src="https://github.com/isabeaulewis/isabeaulewis.github.io/assets/122393362/b182651b-fc15-4151-a7d1-8f48ed71708d">
-  <img align="center" height="200" alt="hectic_flowering" src="https://github.com/isabeaulewis/isabeaulewis.github.io/assets/122393362/851dfdf6-c48c-4e19-b95f-e0379f45e08c">
-  <img align="center" height="200" alt="big_neighbours" src="https://github.com/isabeaulewis/isabeaulewis.github.io/assets/122393362/ede26e68-626c-44ad-9873-09fa6aeee312">
+  <img align="center" height="160" alt="early_days" src="https://github.com/isabeaulewis/isabeaulewis.github.io/assets/122393362/b182651b-fc15-4151-a7d1-8f48ed71708d">
+  <img align="center" height="160" alt="hectic_flowering" src="https://github.com/isabeaulewis/isabeaulewis.github.io/assets/122393362/851dfdf6-c48c-4e19-b95f-e0379f45e08c">
+  <img align="center" height="160" alt="big_neighbours" src="https://github.com/isabeaulewis/isabeaulewis.github.io/assets/122393362/ede26e68-626c-44ad-9873-09fa6aeee312">
 </figure>
 
 <p style="font-size:10pt"> Photos, in order: Early days, central focal plant surrounded by four neighbours. / Hectic flowering, innumerable visions of phenotyping in my dreams... / Neighbours in a pot, all grown up. </p>
@@ -51,7 +51,7 @@ Identifying the selective pressures shaping interactions within plant neighbourh
 
 <p style="font-size:14pt">STUDY SYSTEM: <i>SAPONARIA OFFICINALIS</i></p>
 
-<p style="font-size:10pt">Illustration: top, male-phase _Saponaria_; bottom, female-phase. By me.</->
+<p style="font-size:10pt">Illustration: top, male-phase <i>Saponaria</i>; bottom, female-phase. By me.</p>
 
 For animal-pollinated plants, interactions with pollinators present a crucial selective pressure for floral traits. Flowers must mediate investment in advertisement traits with reproductive ones -- including, for hermaphroditic flowers, balancing pollen donation, pollen receipt, and setting seed. The returns from these allocative choices differ with pollinator visitation, which is often dynamic -- across ranges, years, and seasons. Thus, plasticity in these traits may be essential to reproductive success. **How do floral advertisement and sex allocation shift under variable pollinator visitation?**
 <br>
@@ -73,9 +73,9 @@ Pollinator visitation and resulting fitness outcomes may vary greatly annually a
 **If you'd like to read my undergraduate thesis on the first half of this project, feel free to send me an email!**
 
 <figure>
-  <img height="200" align="center" alt="bagged_sap" src="https://github.com/isabeaulewis/isabeaulewis.github.io/assets/122393362/9bfdc923-3402-4d9a-95f2-84faf6074fb8">
-  <img height="200" align="center" alt="common_garden" src="https://github.com/isabeaulewis/isabeaulewis.github.io/assets/122393362/c7309388-54fe-470b-b92e-06659871a77b">
-  <img height="200" align="center" alt="colour_variation" src="https://github.com/isabeaulewis/isabeaulewis.github.io/assets/122393362/f0c00e51-e4db-4623-aaa6-e465b6048db3">
+  <img height="160" align="center" alt="bagged_sap" src="https://github.com/isabeaulewis/isabeaulewis.github.io/assets/122393362/9bfdc923-3402-4d9a-95f2-84faf6074fb8">
+  <img height="160" align="center" alt="common_garden" src="https://github.com/isabeaulewis/isabeaulewis.github.io/assets/122393362/c7309388-54fe-470b-b92e-06659871a77b">
+  <img height="160" align="center" alt="colour_variation" src="https://github.com/isabeaulewis/isabeaulewis.github.io/assets/122393362/f0c00e51-e4db-4623-aaa6-e465b6048db3">
 </figure>
 
 <p style="font-size:10pt">Photos, in order: Flowers bagged to prevent pollinator visitation. / Common garden grid. / Colour variation in early male-phase flowers.</p>
