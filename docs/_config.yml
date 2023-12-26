@@ -1,5 +1,6 @@
 # Site settings
 title: Isabeau Lewis
+author: Isabeau Lewis
 
 # Build settings
 remote_theme: jekyll/minima
