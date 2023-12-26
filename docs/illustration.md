@@ -15,8 +15,8 @@ Here's one example, of my hypothesis for my _M. guttatus_ [kin discrimination](h
 And here's another, of _S. officinalis_, from a presentation on my [floral plasticity](https://isabeaulewis.github.io/research#floral-plasticity) work. This one is accompanied by a photo of the process:
 
 <p align="center">
-  <img height="330" alt="sap-bg" src="https://github.com/isabeaulewis/isabeaulewis.github.io/assets/122393362/8c87beb7-c646-43cf-b346-3b02559f79da">
-  <img height="330" alt="sap_pred" src="https://github.com/isabeaulewis/isabeaulewis.github.io/assets/122393362/f80c770a-96af-4251-b254-3df3cc92f91e">
+  <img height="300" alt="sap-bg" src="https://github.com/isabeaulewis/isabeaulewis.github.io/assets/122393362/8c87beb7-c646-43cf-b346-3b02559f79da">
+  <img height="300" alt="sap_pred" src="https://github.com/isabeaulewis/isabeaulewis.github.io/assets/122393362/f80c770a-96af-4251-b254-3df3cc92f91e">
 </p>
 
 
