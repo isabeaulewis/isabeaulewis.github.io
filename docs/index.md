@@ -10,7 +10,7 @@ permalink: /
   }
 </style>
 
-<figure style="float: left; padding-right: 25px; width: 50%">
+<figure style="float: left; padding-right: 25px; width: 47%">
   <img src="https://github.com/isabeaulewis/isabeaulewis.github.io/assets/122393362/f0b2335f-1c7b-4c42-879a-67e51bd4d0c3" alt="Mountain selfie!">
 </figure>
 
@@ -22,7 +22,7 @@ Outside of research, I love to cycle, learn about urban design and walkable citi
 
 Find me also on [Twitter](https://twitter.com/isabeau_lewis)!
 
-<p style="font-size:18pt" align="center">
+<p style="font-size:16pt" align="center">
   <b>
 18iml at queensu dot ca
   </b></p>
