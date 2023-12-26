@@ -26,6 +26,9 @@ Find me also on [Twitter](https://twitter.com/isabeau_lewis)!
   <b>
 18iml at queensu dot ca
   </b></p>
+
+![IMG_4950](https://github.com/isabeaulewis/isabeaulewis.github.io/assets/122393362/05f566c8-f056-4b7a-896f-58411352862d)
+
   
 <img width="1007" align="centre" alt="flower-pattern" src="https://github.com/isabeaulewis/isabeaulewis.github.io/assets/122393362/79ceeaef-5c64-4e1b-b0e3-0dfff4b13273">
 
