@@ -4,7 +4,9 @@ title: CV
 full-width: true
 ---
 
-(Alternatively and with better formatting, a [PDF](./IsabeauLewis_CV_Website_Jan2024.pdf) version)
+(Alternatively, a [downloadable](./IsabeauLewis_CV_Website_Jan2024.pdf) version)
+
+<object data="./IsabeauLewis_CV_Website_Jan2024.pdf" width="1000" height="1000" type='application/pdf'></object>
 
 <p align="center"> 
     <b>
