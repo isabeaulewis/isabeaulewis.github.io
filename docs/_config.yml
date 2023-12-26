@@ -1,6 +1,8 @@
 # Site settings
 title: Isabeau Lewis
-author: Isabeau Lewis
+author: 
+  name: Isabeau Lewis
+  email: 18iml@queensu.ca
 
 # Build settings
 remote_theme: jekyll/minima
