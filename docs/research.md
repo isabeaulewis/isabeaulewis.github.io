@@ -61,8 +61,9 @@ Identifying the selective pressures shaping interactions within plant neighbourh
 <p style="font-size:10pt">Illustration: top, male-phase <i>Saponaria</i>; bottom, female-phase. By me.</p>
 
 For animal-pollinated plants, interactions with pollinators present a crucial selective pressure for floral traits. Flowers must mediate investment in advertisement traits with reproductive ones -- including, for hermaphroditic flowers, balancing pollen donation, pollen receipt, and setting seed. The returns from these allocative choices differ with pollinator visitation, which is often dynamic -- across ranges, years, and seasons. Thus, plasticity in these traits may be essential to reproductive success. **How do floral advertisement and sex allocation shift under variable pollinator visitation?**
+<br> 
 
-<img width="221" alt="sap_mf" src="https://github.com/isabeaulewis/isabeaulewis.github.io/assets/122393362/a262cee2-3dff-4adb-a9d4-13185709a9ed">
+<img width="221" align="left" alt="sap_mf" src="https://github.com/isabeaulewis/isabeaulewis.github.io/assets/122393362/a262cee2-3dff-4adb-a9d4-13185709a9ed"> 
 
 To test this, I used _Saponaria officinalis_, an invasive weed with protandrous flowers that undergo a colour change as they change sex. Flowers begin as white in male phase, before transitioning to female phase and turning pink. In a common garden at the [Queen's University Biological Station](https://qubs.ca/), I manipulated the level of pollinator visitation and measured flower colour and sex phase transition responses. This was conducted across two field seasons -- in 2022, I manipulated pollen removal from male-phase flowers and in 2023, pollen deposition on female-phase ones. Male-phase flowers with high pollen removal accelerated the transition to female phase and were pinker at three days following treatment than their counterparts with no pollen removal. Likewise, female-phase flowers with high pollen deposition were pinker in the days following treatment than flowers with no deposition.
 <br>
