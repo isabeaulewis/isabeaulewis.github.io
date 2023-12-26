@@ -10,7 +10,7 @@ permalink: /
   }
 </style>
 
-<figure style="float: left; padding-right: 25px; width: 47%">
+<figure style="float: left; padding-right: 20px; width: 47%">
   <img src="https://github.com/isabeaulewis/isabeaulewis.github.io/assets/122393362/f0b2335f-1c7b-4c42-879a-67e51bd4d0c3" alt="Mountain selfie!">
 </figure>
 
